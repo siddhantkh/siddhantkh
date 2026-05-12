@@ -1,34 +1,29 @@
-# Hi, I'm Sid 👋
+### Hi, I'm Sid 👋
 
-Full-stack developer based in Kathmandu, Nepal. I recently completed an internship at **ISER Nepal** where I built a production field survey system (React + TypeScript + Tauri + Rust) and a CMS-backed research website used by the FAMELO research team.
+Full-stack developer based in Kathmandu 🇳🇵. I just finished an internship at **ISER Nepal** where I shipped a production desktop survey app (React + Tauri + Rust) and a CMS-backed research website — real clients, real deadlines.
 
-I'm currently looking for full-stack roles — open to Nepal-based and remote opportunities.
-
----
-
-## What I've built
-
-**[Survey Platform](https://github.com/siddhantkh/survey-platform)** — A field survey system for ISER Nepal. Includes a drag-and-drop Survey Designer (React web app) and an offline-capable desktop Surveyor App (Tauri + Rust) with SQLite storage and a distributable Windows installer.
-
-**[FAMELO Website](https://github.com/siddhantkh/famelo-website)** — Full frontend for the FAMELO research project at ISER Nepal. Integrated with a Strapi headless CMS for dynamic content. Fully responsive.
-
-**[Kakshya](https://github.com/siddhantkh/kakshya)** — School management system with role-based dashboards for admins, teachers, students, and parents. Built with the MERN stack. Includes attendance tracking, grade management, and a noticeboard.
-
-**[Teacher's Chatbot](https://github.com/siddhantkh/teacher-chatbot)** — AI-powered classroom assistant using the Gemini API. Helps teachers generate quizzes, lesson ideas, and classroom materials on the fly.
+Currently looking for full-stack roles. Open to Nepal-based and remote.
 
 ---
 
-## Stack
+### 🔨 Things I've built
 
-**Frontend** — React, TypeScript, Tailwind CSS, Next.js  
-**Backend** — Node.js, Express.js, Python, Flask  
-**Databases** — MongoDB, SQLite  
-**Tools** — Git, VS Code, Tauri, Strapi  
+**🗂️ Survey Platform** — Drag-and-drop survey designer + offline desktop surveyor app with SQLite storage and a Windows installer. Built for field researchers at ISER Nepal using React, TypeScript, Tauri, and Rust.
+
+**🌐 FAMELO Website** — Full frontend for a migration research project. Headless CMS with Strapi, fully responsive. Live at ISER Nepal.
+
+**🏫 Kakshya** — School management system with role-based dashboards for admins, teachers, students, and parents. MERN stack with attendance, grades, and noticeboard modules.
+
+**🤖 Teacher's Chatbot** — AI classroom assistant powered by Gemini API. Generates quizzes, lesson plans, and teaching ideas on demand.
 
 ---
 
-## Get in touch
+### 🧰 Stack
 
-- Portfolio: [siddhantkhadka.com.np](https://siddhantkhadka.com.np)
-- LinkedIn: [linkedin.com/in/siddhantkh](https://linkedin.com/in/siddhantkh)
-- Email: sidnymo7@gmail.com
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white)
