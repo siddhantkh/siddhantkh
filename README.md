@@ -1,8 +1,8 @@
 ### Hi, I'm Sid 👋
 
-Full-stack developer based in Kathmandu 🇳🇵. I just finished an internship at **ISER Nepal** where I shipped a production desktop survey app (React + Tauri + Rust) and a CMS-backed research website.
+Software Engineer based in Kathmandu 🇳🇵. I just finished an internship at **ISER Nepal** where I shipped a production desktop survey app (React + Tauri + Rust) and a CMS-backed research website.
 
-Currently looking for full-stack roles. Open to Nepal-based and remote.
+Currently looking for full-stack and QA roles. Open to Nepal-based and remote.
 
 ---
 
